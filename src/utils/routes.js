@@ -1,0 +1,10 @@
+export const HOME = 'Shopink';
+export const CART = 'My Cart';
+export const CATEGORIES = 'Categories';
+export const PROFILE = 'Profile';
+export const FAVORITES = 'Favorites';
+export const TAB = 'TabNavigator';
+export const PRODUCTLIST = 'All Products';
+export const PRODUCTDETAIL = 'Product Detail';
+export const CHECKOUT = 'Payment';
+export const LOGIN = 'Login';
